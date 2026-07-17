@@ -1,2 +1,5 @@
-# ASTRO-499-Autonomous-RPO
-499 Project focused on developing methods for autonomous RPO
+# ASTRO 499 – Autonomous Orbital Maneuver Planning
+
+GitHub Pages course site for a 2-credit independent research course.
+
+Deploy with GitHub Pages using the Just the Docs theme.
